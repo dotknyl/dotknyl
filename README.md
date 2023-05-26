@@ -1,41 +1,46 @@
 # Hi there 👋, I'm knyL
 
-<pre>
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@&##BGPP55555G@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@&#BP5YJJYY55PGGGGGP7B@@@@@@@@@@@@@@@@
-@@@@@@@@@@BJ?!!7JY5B#&@@@@@@@@@@&#B&@@@@@@@@@@@@@@
-@@@@@@@@@@#5GB#B7~5BGPY?#@GJ?#@@@5^J@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@J~B@@#J??B#GY^G@@G?!?@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@5^B@@@@@@@@@@B^P@GJ#!J@@@@@@@@@@@@@@
-@@@@@@@@@@@@@&!7@@@@@@@@@@@B^5PY@&~Y@@@@@@@@@@@@@@
-@@@@@@@@@@@@@&J?B&B@@@@@@@@P~7P@@#^P@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@BJ?&@@@@@@@&#&@@@5~#@@@@@@@@@@@@@@
-@@@@@@@@@@@@@#PJJ5GBP5@@@@@@@@@@&7J@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@#P5PB#GYG@@@@@@@@@@Y!#@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@J55?J?G@@@@@@@@@#J7B@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@BJJB@&&@&GGGGGP5J5&@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@B55B@@@@@&##5JB@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@#P5P#@@@@&JJ#@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@#P5P#&J5@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@#PJY@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@&YG@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                                          
-</pre>
+<!-- <img src="https://avatars.githubusercontent.com/u/19770280?v=4" alt="profile image" width="64" height="64" style="-webkit-mask-size: contain;"> -->
 
-### 📫 How to reach me
+<!--<pre>
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@&&##BBBBB@@@@@@@@@@@@@@
+@@@@@@@@@@&#BP555555PPPPPY5@@@@@@@@@@@@@
+@@@@@@@@G??7J?JGB#&@@@&@@@#P#@@@@@@@@@@@
+@@@@@@@@&#&@P!G&BY7G&5!G@@P^Y@@@@@@@@@@@
+@@@@@@@@@@@B!B@@&B#&&@7Y@P5?Y@@@@@@@@@@@
+@@@@@@@@@@@7?@@@@@@@@@7JPP@75@@@@@@@@@@@
+@@@@@@@@@@@G5#P&@@@@@&?JB@&!G@@@@@@@@@@@
+@@@@@@@@@@@&GYJBB&@@@@@@@@G!&@@@@@@@@@@@
+@@@@@@@@@@&5YP#GYB@@@@@@@&7P@@@@@@@@@@@@
+@@@@@@@@@@@5YYYJG@&&@@@@B?5@@@@@@@@@@@@@
+@@@@@@@@@@@&PYB@@@#BGGPY5#@@@@@@@@@@@@@@
+@@@@@@@@@@@@@&GPG#@@@@G?#@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@#GPG&BJ#@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@#P?#@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@&G&@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+</pre>-->
+
+🔭 I’m currently working with .NET Core and related technologies
+
+🏃 A new runner with 5K race
+
+## 📫 How to reach me
 
 - 💬 [Personal blog](https://knyl.me)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dotknyl/)
 
-### ⚡ Favorite languages and tools
+<!-- |⚡ Favorite languages and tools|⚡ Github contributions|
+|-------------------|------------------------|
+|![dotknyl](https://github-readme-stats.vercel.app/api/top-langs/?username=dotknyl&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=tokyonight&layout=compact") | ![dotknyl's github stats](https://github-readme-stats.vercel.app/api?username=dotknyl&show_icons=true&theme=tokyonight&layout=compact) | -->
 
-![dotknyl](https://github-readme-stats.vercel.app/api/top-langs/?username=dotknyl&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact")
+## ⚡ Favorite languages and tools
 
-### ⚡ Github contributions
+![dotknyl](https://github-readme-stats.vercel.app/api/top-langs/?username=dotknyl&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=tokyonight&layout=compact")
 
-![dotknyl's github stats](https://github-readme-stats.vercel.app/api?username=dotknyl&show_icons=true)
+## ⚡ Github contributions
+
+![dotknyl's github stats](https://github-readme-stats.vercel.app/api?username=dotknyl&show_icons=true&theme=tokyonight&layout=compact)
