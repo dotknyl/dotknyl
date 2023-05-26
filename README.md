@@ -28,7 +28,8 @@
 
 🏃 A new runner with 5K race
 
-<script src="https://gist.github.com/dotknyl/67c4a9e7e2013a4055ad240cdb67a2db.js"></script>
+<!-- <script src="https://gist.github.com/dotknyl/67c4a9e7e2013a4055ad240cdb67a2db.js?file=gist.md"></script> -->
+
 
 ![dotknyl's github stats](https://github-readme-stats.vercel.app/api?username=dotknyl&count_private=true&show_icons=true&theme=tokyonight&layout=compact)    ![dotknyl](https://github-readme-stats.vercel.app/api/top-langs/?username=dotknyl&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=tokyonight&layout=compact")
 
