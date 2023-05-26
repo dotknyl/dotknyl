@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hi there 👋, I'm knyL
 
-<!--
-**dotknyl/dotknyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@&##BGPP55555G@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@&#BP5YJJYY55PGGGGGP7B@@@@@@@@@@@@@@@@
+@@@@@@@@@@BJ?!!7JY5B#&@@@@@@@@@@&#B&@@@@@@@@@@@@@@
+@@@@@@@@@@#5GB#B7~5BGPY?#@GJ?#@@@5^J@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@J~B@@#J??B#GY^G@@G?!?@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@5^B@@@@@@@@@@B^P@GJ#!J@@@@@@@@@@@@@@
+@@@@@@@@@@@@@&!7@@@@@@@@@@@B^5PY@&~Y@@@@@@@@@@@@@@
+@@@@@@@@@@@@@&J?B&B@@@@@@@@P~7P@@#^P@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@BJ?&@@@@@@@&#&@@@5~#@@@@@@@@@@@@@@
+@@@@@@@@@@@@@#PJJ5GBP5@@@@@@@@@@&7J@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@#P5PB#GYG@@@@@@@@@@Y!#@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@J55?J?G@@@@@@@@@#J7B@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@BJJB@&&@&GGGGGP5J5&@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@B55B@@@@@&##5JB@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@#P5P#@@@@&JJ#@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@#P5P#&J5@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@#PJY@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@&YG@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                                          
+</pre>
 
-Here are some ideas to get you started:
+### 📫 How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 [Personal blog](https://knyl.me)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dotknyl/)
+
+### ⚡ Favorite languages and tools
+
+![dotknyl](https://github-readme-stats.vercel.app/api/top-langs/?username=dotknyl&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact")
+
+### ⚡ Github contributions
+
+![dotknyl's github stats](https://github-readme-stats.vercel.app/api?username=dotknyl&show_icons=true)
