@@ -28,15 +28,14 @@
 
 🏃 A new runner with 5K race
 
+![dotknyl's github stats](https://github-readme-stats.vercel.app/api?username=dotknyl&show_icons=true&theme=tokyonight&layout=compact)    ![dotknyl](https://github-readme-stats.vercel.app/api/top-langs/?username=dotknyl&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=tokyonight&layout=compact")
+
 ## 📫 How to reach me
 
 - 💬 [Personal blog](https://knyl.me)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dotknyl/)
 
-<!-- |⚡ Favorite languages and tools|⚡ Github contributions|
-|-------------------|------------------------|
-|![dotknyl](https://github-readme-stats.vercel.app/api/top-langs/?username=dotknyl&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=tokyonight&layout=compact") | ![dotknyl's github stats](https://github-readme-stats.vercel.app/api?username=dotknyl&show_icons=true&theme=tokyonight&layout=compact) | -->
-
+<!--
 ## ⚡ Favorite languages and tools
 
 ![dotknyl](https://github-readme-stats.vercel.app/api/top-langs/?username=dotknyl&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=tokyonight&layout=compact")
@@ -44,3 +43,4 @@
 ## ⚡ Github contributions
 
 ![dotknyl's github stats](https://github-readme-stats.vercel.app/api?username=dotknyl&show_icons=true&theme=tokyonight&layout=compact)
+-->
