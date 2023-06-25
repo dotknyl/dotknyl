@@ -47,3 +47,7 @@
 
 ![dotknyl's github stats](https://github-readme-stats.vercel.app/api?username=dotknyl&show_icons=true&theme=tokyonight&layout=compact)
 -->
+
+<a href="https://www.buymeacoffee.com/knyl" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="200" style="height: 60px !important;width: 217px !important;" >
+</a>
